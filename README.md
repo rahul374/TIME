@@ -83,21 +83,16 @@
         @keyframes hour{
             from{ transform: rotatez(0deg);}
             to{ transform: rotatez(360deg);}
-        }
-     
-
-
-
-
-        
-    </style>
+    
+  }
+  </style>
 </head>
 <body>
-    <h1> TIME SEEN HERE </h1>
+   
+   
+  <h1> TIME SEEN HERE </h1>
     <div class="container">
-        <div class="clock">
-        </div>
-      
+        <div class="clock"> </div>
         <div class="sec">S</div>
         <div class="min">M</div>
         <div class="hour">H</div>
