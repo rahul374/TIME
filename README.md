@@ -28,7 +28,7 @@
         height: 150px;
     background-color:yellow;
         margin-top: -400px;
-        margin-left: 540px;
+        margin-left: 500px;
         color:black    ;
         z-index: 1;
         position:relative;
@@ -44,7 +44,7 @@
         height: 130px;
        background-color: blue;
         margin-top: -130px;
-         margin-left: 540px;
+         margin-left: 500px;
         color: white  ;
         z-index: 2; 
         position: relative;
@@ -62,7 +62,7 @@
         height: 115px;
         background-color: lawngreen;
         margin-top: -110px;
-        margin-left: 540px;
+        margin-left: 500px;
         color:black ; 
         transform-origin: bottom;
         animation-name: hour;
